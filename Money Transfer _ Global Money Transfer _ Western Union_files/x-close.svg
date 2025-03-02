@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Bank" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3-Add-new-bank-account" transform="translate(-615.000000, -408.000000)" fill="#63656A">
+            <g id="Body" transform="translate(27.000000, 110.000000)">
+                <g id="Bank-Information" transform="translate(26.000000, 269.000000)">
+                    <path d="M574.566378,44.9994602 L569.99973,40.4328127 L565.433083,44.9994602 L562,41.5663777 L566.566648,36.9997301 L562,32.4330826 L565.433083,29 L569.99973,33.5666475 L574.566378,29 L578,32.4330826 L573.433352,36.9997301 L578,41.5663777 L574.566378,44.9994602" id="Fill-20"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
